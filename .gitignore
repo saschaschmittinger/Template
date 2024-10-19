@@ -92,3 +92,4 @@ node_modules/** */
 *.txt
 *.md
 node_modules/
+ecommerce.code-workspace
